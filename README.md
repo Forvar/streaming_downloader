@@ -1,4 +1,4 @@
-# streaming_downloader
+# Streaming downloader
 
 This is a simple script to download a streaming video. Here some instructions:
 
