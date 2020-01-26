@@ -8,3 +8,5 @@ This is a simple script to download a streaming video. Here some instructions:
 <pre><code>python main.py <url></code></pre>
 
 This script creates a folder in whitch it will download the .ts files. Once all the .ts files are downloaded, it merges them in a .mp4 file.
+
+PS: just discovered streamlink https://streamlink.github.io/cli.html, just use it with `-o filename` and `--hds-segment-threads 10` parameters.
